@@ -1,5 +1,8 @@
 <div align="center">
-# ob-lean4
+
+<h1>ob-lean4</h1>
+
+<p><b>Run Lean 4 inside Org mode source blocks.</b></p>
 
 [Installation](#installation) • [Quick start](#quick-start) • [Header arguments](#header-arguments) • [Contributing](#contributing) • [Author](#author)
 
@@ -9,11 +12,10 @@
 [![Org mode](https://img.shields.io/badge/Org-babel-77AA99)](https://orgmode.org/worg/org-contrib/babel/)
 
 <img src="assets/demo.gif" alt="Lean 4 blocks evaluated in an Org document" width="900">
+
 </div>
 
----
-
-# Introduction
+## Introduction
 
 [Lean 4](https://lean-lang.org/) is a programming language and interactive theorem prover.
 
